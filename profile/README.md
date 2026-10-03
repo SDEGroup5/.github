@@ -12,6 +12,6 @@ As you can see there are multiple repositories:
 This project was created for the "Service Design and Architecture" course at <a href="https://www.unitn.it/it">University of Trento</a>, Italy, by five master's degree students:
 - GitHub: <a href="https://github.com/LorenzoCaraffini">LorenzoCaraffini</a>
 - GitHub: <a href="https://github.com/FilizZPalm">FilizZPalm</a>
-- GitHub: <a href="">2</a>
+- GitHub: <a href="https://github.com/ozneroL541">ozneroL541</a>
 - GitHub: <a href="">3</a>
 - GitHub: <a href="https://github.com/FireStoat3">FireStoat3</a>
